@@ -1,3 +1,21 @@
-body{
-	text-align:center;
+* {
+	background-color:#0c162d;
+}
+
+a {
+	text-decoration:none;
+    color:teal;
+}
+
+.ascii-text {
+	color:#FF2D95;
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px, 2px 2px 2px rgba(61,187,206,0);
+}
+
+.yellow {
+	color:yellow;
+}
+
+.title-info {
+	color:springgreen;
 }
